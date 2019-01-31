@@ -18,6 +18,7 @@ public class LoginpageTest extends Testbase{
 	
 	public LoginpageTest()
 	{
+		//calling of parent class constructor
 		super();
 		
 	}
